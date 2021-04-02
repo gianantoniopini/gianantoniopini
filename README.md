@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on open source software development projects
 - 📫 How to reach me: antonio.pini@pm.me
 
-##
-
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=gianantoniopini&count_private=true&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=gianantoniopini&count_private=true&show_icons=true" />
