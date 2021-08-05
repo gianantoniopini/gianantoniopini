@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gianantonio Pini</h1>
 <h3 align="center">Software developer</h3>
 
-- 👀 I’m interested in software development, privacy, plant-based nutrition, digital democracy, digital rights
-- 🌱 I’m currently learning React, re-learning JavaScript
+- 👀 I’m interested in software development, privacy, plant-based nutrition, digital rights
+- 🌱 I’m currently learning TypeScript, Yarn, Linux
 - 💞️ I’m looking to collaborate on open source software development projects
 - 📫 How to reach me: gpini.dev@pm.me
 
