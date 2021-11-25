@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gianantonio Pini</h1>
 <h3 align="center">Software developer</h3>
 
-- 👀 I’m interested in software development, privacy, plant-based nutrition, digital rights
+- 👀 I’m interested in software development, privacy, plant-based nutrition, digital rights, cleantech
 - 🌱 I’m currently learning TypeScript, Node.js, Express, MongoDB, Vue, Bootstrap
-- 💞️ I’m looking to collaborate on open source software development projects
 - 📫 How to reach me: gpini.dev@pm.me
 
 <div>
