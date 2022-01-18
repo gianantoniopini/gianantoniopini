@@ -9,4 +9,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=gianantoniopini&count_private=true&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=gianantoniopini&count_private=true&show_icons=true" />
   </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gianantoniopini&langs_count=10&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianantoniopini&langs_count=10&layout=compact" />
+  </a>
 </div>
